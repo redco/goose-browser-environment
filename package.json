@@ -1,15 +1,33 @@
 {
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.3",
   "name": "goose-browser-environment",
   "main": "lib/BrowserEnvironment.js",
   "repository": "redco/goose-browser-environment",
   "description": "Environment for Goose parser which allows to run it in commmon Browser",
+  "keywords": [
+    "chrome",
+    "chromium",
+    "firefox",
+    "safari",
+    "browser",
+    "environment",
+    "parser",
+    "crawler",
+    "crawling",
+    "spider",
+    "scraper",
+    "scraping",
+    "site",
+    "page",
+    "dom",
+    "javascript"
+  ],
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "babel-polyfill": "^6.23.0",
     "debug": "^3.0.1",
-    "goose-abstract-environment": "1.0.8"
+    "goose-abstract-environment": "^1.0.9"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",

@@ -1544,14 +1544,12 @@ globby@^5.0.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
-goose-abstract-environment@1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/goose-abstract-environment/-/goose-abstract-environment-1.0.8.tgz#8b3ea8aecb89c19f001af2ccdca98a97a7d9101f"
+goose-abstract-environment@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/goose-abstract-environment/-/goose-abstract-environment-1.0.9.tgz#d7acfaade8977eee31ceefb70039864cd418002c"
   dependencies:
     babel-polyfill "^6.23.0"
     debug "^3.0.1"
-    vow "^0.4.16"
-    vow-node "^0.3.0"
 
 graceful-fs@^4.1.2, graceful-fs@^4.1.4:
   version "4.1.11"
@@ -2878,14 +2876,6 @@ verror@1.10.0:
     assert-plus "^1.0.0"
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
-
-vow-node@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/vow-node/-/vow-node-0.3.0.tgz#babf87cd8209935f75c050c6a6b6a9342e293d5f"
-
-vow@^0.4.16:
-  version "0.4.17"
-  resolved "https://registry.yarnpkg.com/vow/-/vow-0.4.17.tgz#b16e08fae58c52f3ebc6875f2441b26a92682904"
 
 which@1.2.x:
   version "1.2.14"
