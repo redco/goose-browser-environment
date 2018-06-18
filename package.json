@@ -1,6 +1,6 @@
 {
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "goose-browser-environment",
   "main": "lib/BrowserEnvironment.js",
   "repository": "redco/goose-browser-environment",
