@@ -1,6 +1,6 @@
 {
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "goose-browser-environment",
   "main": "lib/BrowserEnvironment.js",
   "repository": "redco/goose-browser-environment",
@@ -26,8 +26,8 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "babel-polyfill": "^6.23.0",
-    "debug": "^3.0.1",
-    "goose-abstract-environment": "^1.0.9"
+    "debug": "^3.1.0",
+    "goose-abstract-environment": "^1.0.12"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
